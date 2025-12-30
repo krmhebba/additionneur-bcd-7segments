@@ -32,4 +32,4 @@ Le projet combine deux méthodes de conception numérique :
 4. Ouvrir les fichiers `.vwf` pour visualiser les simulations.
 
 ## Auteurs
-Projet réalisé Hiba Karam en collaboration avec Tarek Souibri.
+Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
