@@ -25,11 +25,5 @@ Le projet combine deux méthodes de conception numérique :
 * **Simulation :** Fichiers Vector Waveform (.vwf) montrant les tests unitaires.
 * **Configuration :** Fichier Pinout (.pin) détaillant l'assignation des broches physiques du FPGA.
 
-## Installation et Ouverture
-1. Cloner le dépôt.
-2. Ouvrir le fichier `exo1.qpf` avec le logiciel Quartus II.
-3. Lancer la compilation pour vérifier la synthèse logique.
-4. Ouvrir les fichiers `.vwf` pour visualiser les simulations.
-
 ## Auteurs
 Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
